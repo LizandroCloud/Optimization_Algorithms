@@ -1,1 +1,3 @@
 # Optimization Algorithms
+
+## Dichotomous Search
