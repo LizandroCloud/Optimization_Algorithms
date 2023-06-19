@@ -8,3 +8,13 @@
 ### 1.4 Quadratic interpolation method
 ### 1.5 Cubic interpolation method
 ### 1.6 The Davies, Swann, and Campey method
+
+## 2. One-Dimensional Gradient Methods
+
+## 3. Multi-Dimensional Gradient Methods
+
+## 4. Conjugate-Direction Gradient Methods
+
+## 5. Quasi-Newton Methods
+
+
