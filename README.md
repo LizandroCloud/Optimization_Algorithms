@@ -2,7 +2,7 @@
 
 ### 1. One-Dimensional Optimization
 
-#### 1.1 Dichotomous Search [a link]([https://github.com/user/repo/blob/branch/other_file.md](https://colab.research.google.com/drive/1mqzlcm93uwzBbMJpFpLxYX3amBKHN-kR#scrollTo=VqL2zUGphW7m))
+#### 1.1 Dichotomous Search (https://colab.research.google.com/drive/1mqzlcm93uwzBbMJpFpLxYX3amBKHN-kR#scrollTo=VqL2zUGphW7m)
 #### 1.2 Fibonacci search
 #### 1.3 Golden-section search
 #### 1.4 Quadratic interpolation method
